@@ -1,4 +1,4 @@
-package com.example.naveen.learning;
+package com.example.dellpc.logginregister;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
